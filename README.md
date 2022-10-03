@@ -18,3 +18,21 @@ devices of an organization or a special building for people in there.
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
+
+
+Want to contribute? 🤝
+Check out the issues to see what you can do. We have some first come and easy tasks for you which would help you in starting in your open source journey.
+
+Here are a few guidelines to keep in mind before contributing: 🧾
+
+1️⃣ Raise an issue on whatever bug fix or feature you want to work on.
+
+2️⃣ State what you want to work on and also the solution that you plan to implement.
+
+3️⃣ After reviewing your suggestions we'll approve you request.
+
+And after working on your fix before creating a pull request make sure you check out the following points:
+
+👉 In your pull request, make sure to add the screenshot of the part you are working on before implementing your changes and also after implementing your changes.
+
+👉 If you are working on anything from the issues then make sure to add the isuue number along with the screenshots.
