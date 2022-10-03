@@ -21,6 +21,7 @@ Setup:
 
 
 Want to contribute? 🤝
+
 Check out the issues to see what you can do. We have some first come and easy tasks for you which would help you in starting in your open source journey.
 
 Here are a few guidelines to keep in mind before contributing: 🧾
